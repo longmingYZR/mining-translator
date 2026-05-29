@@ -1,0 +1,853 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "total_terms": 52,
+    "last_updated": "2026-05-29T06:55:48.762461+00:00"
+  },
+  "categories": [
+    "采矿方法",
+    "矿物/矿石",
+    "设备/机械",
+    "安全",
+    "环保",
+    "地质/勘探",
+    "选矿",
+    "冶炼/冶金",
+    "合同/法律",
+    "其他"
+  ],
+  "terms": [
+    {
+      "id": "a6579e1d-b59c-45fe-82eb-752e19f3488a",
+      "source": "原料信息",
+      "en": "",
+      "es": "Información de la materia prima",
+      "definition": "Sección que recopila datos sobre el material a procesar en la operación minera.",
+      "category": "其他",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485637+00:00",
+      "updated_at": "2026-05-29T06:41:27.485650+00:00"
+    },
+    {
+      "id": "2d1cbdd6-2551-452a-a5e2-99b8511ae699",
+      "source": "原料材质",
+      "en": "",
+      "es": "Material de la materia prima",
+      "definition": "Tipo de material o roca que se va a procesar.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485669+00:00",
+      "updated_at": "2026-05-29T06:41:27.485672+00:00"
+    },
+    {
+      "id": "06b2ecdd-a4a4-4c62-adfb-4ee52d155aa9",
+      "source": "进料最大尺寸",
+      "en": "",
+      "es": "Tamaño máximo de alimentación",
+      "definition": "Dimensión máxima del material que ingresa al equipo de trituración.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485684+00:00",
+      "updated_at": "2026-05-29T06:41:27.485688+00:00"
+    },
+    {
+      "id": "4e597ef2-a9ce-45fa-8ed7-df0df4597371",
+      "source": "原料性质",
+      "en": "",
+      "es": "Naturaleza de la materia prima",
+      "definition": "Características físicas y químicas del material a procesar.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485698+00:00",
+      "updated_at": "2026-05-29T06:41:27.485700+00:00"
+    },
+    {
+      "id": "f94aa7f4-fc65-4946-b1b0-380bddf3e957",
+      "source": "原料开采方式/来源",
+      "en": "",
+      "es": "Método de extracción/origen de la materia prima",
+      "definition": "Forma en que se obtiene el material, como minería a cielo abierto o subterránea.",
+      "category": "采矿方法",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485710+00:00",
+      "updated_at": "2026-05-29T06:41:27.485713+00:00"
+    },
+    {
+      "id": "a080860b-d059-4c7a-935f-767cb1acbee6",
+      "source": "物料密度",
+      "en": "",
+      "es": "Densidad del material",
+      "definition": "Masa por unidad de volumen del material, importante para el diseño de equipos.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485722+00:00",
+      "updated_at": "2026-05-29T06:41:27.485725+00:00"
+    },
+    {
+      "id": "c8968504-3259-430b-99a3-642f3d6a481f",
+      "source": "炸药爆破",
+      "en": "",
+      "es": "Voladura con explosivos",
+      "definition": "Método de fragmentación de roca mediante explosivos.",
+      "category": "采矿方法",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485734+00:00",
+      "updated_at": "2026-05-29T06:41:27.485737+00:00"
+    },
+    {
+      "id": "b78ecdbe-135c-4e9f-be7f-bf64fd25dbd9",
+      "source": "二氧化硅含量",
+      "en": "",
+      "es": "Contenido de sílice",
+      "definition": "Porcentaje de sílice en el material, que afecta la abrasividad y el desgaste de equipos.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485749+00:00",
+      "updated_at": "2026-05-29T06:41:27.485752+00:00"
+    },
+    {
+      "id": "92a26a41-edc3-4679-a751-53086949ddbc",
+      "source": "冲击锤",
+      "en": "",
+      "es": "Martillo hidráulico",
+      "definition": "Herramienta de demolición y fragmentación de roca accionada hidráulicamente.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485760+00:00",
+      "updated_at": "2026-05-29T06:41:27.485764+00:00"
+    },
+    {
+      "id": "b87bf83c-58dc-48da-b1cd-f14a3c26157c",
+      "source": "湿度",
+      "en": "",
+      "es": "Humedad",
+      "definition": "Contenido de agua en el material, que afecta el proceso de cribado y trituración.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485772+00:00",
+      "updated_at": "2026-05-29T06:41:27.485773+00:00"
+    },
+    {
+      "id": "80f8ac20-e934-43c6-97b3-c99f04144e92",
+      "source": "CO2爆破",
+      "en": "",
+      "es": "Voladura con CO2",
+      "definition": "Método de fragmentación de roca utilizando dióxido de carbono como agente expansivo.",
+      "category": "采矿方法",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485782+00:00",
+      "updated_at": "2026-05-29T06:41:27.485784+00:00"
+    },
+    {
+      "id": "21614c59-7031-46f0-835e-b28933e2c593",
+      "source": "粘土含量",
+      "en": "",
+      "es": "Contenido de arcilla",
+      "definition": "Porcentaje de arcilla en el material, que puede causar obstrucciones en equipos.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485790+00:00",
+      "updated_at": "2026-05-29T06:41:27.485792+00:00"
+    },
+    {
+      "id": "47bcf878-2c11-4abb-aa70-4a440115c2cc",
+      "source": "滩砾",
+      "en": "",
+      "es": "Grava de playa",
+      "definition": "Material granular de origen aluvial o de playa, utilizado en construcción.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485796+00:00",
+      "updated_at": "2026-05-29T06:41:27.485797+00:00"
+    },
+    {
+      "id": "2ac2e109-bfac-4231-accc-e5bfcc5cdfae",
+      "source": "原料特性",
+      "en": "",
+      "es": "Características de la materia prima",
+      "definition": "Propiedades físicas del material como forma, textura y estado.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485801+00:00",
+      "updated_at": "2026-05-29T06:41:27.485802+00:00"
+    },
+    {
+      "id": "d9a9b296-d3cb-40f2-8aa1-ee9c1c3baf40",
+      "source": "片状",
+      "en": "",
+      "es": "Laminar",
+      "definition": "Forma de partícula plana y alargada, típica de ciertos minerales.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485806+00:00",
+      "updated_at": "2026-05-29T06:41:27.485807+00:00"
+    },
+    {
+      "id": "6bff7604-3858-4cca-8598-1b6a8e1d2d55",
+      "source": "有角的",
+      "en": "",
+      "es": "Anguloso",
+      "definition": "Forma de partícula con bordes afilados y esquinas pronunciadas.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485811+00:00",
+      "updated_at": "2026-05-29T06:41:27.485812+00:00"
+    },
+    {
+      "id": "78b60160-5ef9-4e6f-b7d2-1500a4dd3a37",
+      "source": "立方体",
+      "en": "",
+      "es": "Cúbico",
+      "definition": "Forma de partícula aproximadamente cúbica, deseable en agregados.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485818+00:00",
+      "updated_at": "2026-05-29T06:41:27.485820+00:00"
+    },
+    {
+      "id": "ca2e123b-8c81-4eb0-bf87-8a26bcc6903f",
+      "source": "圆的",
+      "en": "",
+      "es": "Redondeado",
+      "definition": "Forma de partícula con bordes suaves y redondeados.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485826+00:00",
+      "updated_at": "2026-05-29T06:41:27.485827+00:00"
+    },
+    {
+      "id": "410a0ae9-94b2-4898-9180-3de1759391e6",
+      "source": "赃的",
+      "en": "",
+      "es": "Sucio",
+      "definition": "Material que contiene impurezas o contaminantes.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485833+00:00",
+      "updated_at": "2026-05-29T06:41:27.485835+00:00"
+    },
+    {
+      "id": "56c3ea08-b31e-4713-b9c5-6a60971f9def",
+      "source": "粘性",
+      "en": "",
+      "es": "Viscoso",
+      "definition": "Propiedad del material que tiende a adherirse o pegarse.",
+      "category": "矿物/矿石",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485847+00:00",
+      "updated_at": "2026-05-29T06:41:27.485851+00:00"
+    },
+    {
+      "id": "3c018d85-214e-46c6-81bd-9dc50c054874",
+      "source": "给料方式",
+      "en": "",
+      "es": "Método de alimentación",
+      "definition": "Forma en que el material es introducido al equipo de procesamiento.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485862+00:00",
+      "updated_at": "2026-05-29T06:41:27.485863+00:00"
+    },
+    {
+      "id": "62d25803-f34d-4824-8cc6-e5ca02997afa",
+      "source": "给料设备",
+      "en": "",
+      "es": "Equipo de alimentación",
+      "definition": "Maquinaria utilizada para suministrar material a los equipos de trituración o cribado.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485868+00:00",
+      "updated_at": "2026-05-29T06:41:27.485869+00:00"
+    },
+    {
+      "id": "779ea93e-4d24-48a1-bd3f-4d42dbb554f5",
+      "source": "自动倾卸卡车",
+      "en": "",
+      "es": "Camión de volteo",
+      "definition": "Vehículo de transporte con caja basculante para descargar material.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485875+00:00",
+      "updated_at": "2026-05-29T06:41:27.485877+00:00"
+    },
+    {
+      "id": "519dcc49-1bac-40bb-9745-4feeec9744bc",
+      "source": "装载机",
+      "en": "",
+      "es": "Cargador",
+      "definition": "Máquina utilizada para cargar material en camiones o equipos de procesamiento.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485884+00:00",
+      "updated_at": "2026-05-29T06:41:27.485886+00:00"
+    },
+    {
+      "id": "f1dfacfa-51ea-439a-ae50-5e750e2e6668",
+      "source": "挖掘机",
+      "en": "",
+      "es": "Excavadora",
+      "definition": "Máquina de movimiento de tierras con cuchara para excavar y cargar material.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485890+00:00",
+      "updated_at": "2026-05-29T06:41:27.485891+00:00"
+    },
+    {
+      "id": "87c0eaf4-408d-49d8-b674-b6d53b3b2766",
+      "source": "粒型要求",
+      "en": "",
+      "es": "Requisitos de forma de partícula",
+      "definition": "Especificaciones sobre la forma deseada de las partículas del producto final.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485895+00:00",
+      "updated_at": "2026-05-29T06:41:27.485896+00:00"
+    },
+    {
+      "id": "fb4f1c06-4a7b-4d9e-a1cf-46677a6c2067",
+      "source": "设备需求信息",
+      "en": "",
+      "es": "Información de requisitos de equipo",
+      "definition": "Sección que recopila datos sobre el tipo y características del equipo necesario.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485900+00:00",
+      "updated_at": "2026-05-29T06:41:27.485901+00:00"
+    },
+    {
+      "id": "45e0230b-7216-4725-b03b-f98ea15eddfa",
+      "source": "设备种类",
+      "en": "",
+      "es": "Tipo de equipo",
+      "definition": "Clasificación del equipo requerido, como trituradora o criba.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485905+00:00",
+      "updated_at": "2026-05-29T06:41:27.485906+00:00"
+    },
+    {
+      "id": "1361daa5-d851-4c9d-baf7-ca43fd514439",
+      "source": "破碎机",
+      "en": "",
+      "es": "Trituradora",
+      "definition": "Máquina utilizada para reducir el tamaño de las rocas mediante compresión o impacto.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485911+00:00",
+      "updated_at": "2026-05-29T06:41:27.485913+00:00"
+    },
+    {
+      "id": "bbb7be94-3099-4bf3-9ca4-ce6e39a36960",
+      "source": "筛分机",
+      "en": "",
+      "es": "Criba",
+      "definition": "Equipo utilizado para separar materiales por tamaño mediante mallas.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485919+00:00",
+      "updated_at": "2026-05-29T06:41:27.485921+00:00"
+    },
+    {
+      "id": "fa32204c-0301-4fad-bebc-425189152816",
+      "source": "移动类型",
+      "en": "",
+      "es": "Tipo de movilidad",
+      "definition": "Clasificación del equipo según su capacidad de desplazamiento.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485928+00:00",
+      "updated_at": "2026-05-29T06:41:27.485930+00:00"
+    },
+    {
+      "id": "f62eea00-2f42-4ecf-a23c-648bbbfcd0c2",
+      "source": "履带移动式",
+      "en": "",
+      "es": "Móvil sobre orugas",
+      "definition": "Equipo montado sobre orugas para facilitar su desplazamiento en el terreno.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485935+00:00",
+      "updated_at": "2026-05-29T06:41:27.485937+00:00"
+    },
+    {
+      "id": "c9405220-6397-4ff5-b7c3-453ca1e6d7c5",
+      "source": "轮胎移动式",
+      "en": "",
+      "es": "Móvil sobre neumáticos",
+      "definition": "Equipo montado sobre ruedas para facilitar su transporte.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485941+00:00",
+      "updated_at": "2026-05-29T06:41:27.485941+00:00"
+    },
+    {
+      "id": "21f29da5-fa08-414a-8d4b-368f075cf77d",
+      "source": "固定式",
+      "en": "",
+      "es": "Fijo",
+      "definition": "Equipo instalado de forma permanente en una ubicación.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485945+00:00",
+      "updated_at": "2026-05-29T06:41:27.485946+00:00"
+    },
+    {
+      "id": "df935c0c-316d-48b3-b609-892258d48510",
+      "source": "动力来源",
+      "en": "",
+      "es": "Fuente de energía",
+      "definition": "Tipo de energía utilizada para operar el equipo, como diésel o electricidad.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485950+00:00",
+      "updated_at": "2026-05-29T06:41:27.485951+00:00"
+    },
+    {
+      "id": "02853346-5c6f-4e41-898b-bfc6aa0a5712",
+      "source": "柴油",
+      "en": "",
+      "es": "Diésel",
+      "definition": "Combustible derivado del petróleo utilizado en motores de equipos mineros.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485955+00:00",
+      "updated_at": "2026-05-29T06:41:27.485956+00:00"
+    },
+    {
+      "id": "e0b0b814-53e0-47fb-970e-1cdc20f0e9a1",
+      "source": "网电",
+      "en": "",
+      "es": "Red eléctrica",
+      "definition": "Suministro de electricidad proveniente de la red pública.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485962+00:00",
+      "updated_at": "2026-05-29T06:41:27.485964+00:00"
+    },
+    {
+      "id": "54d3c36b-6620-477e-8921-0adf38aa2750",
+      "source": "电压",
+      "en": "",
+      "es": "Voltaje",
+      "definition": "Diferencia de potencial eléctrico requerida para el funcionamiento del equipo.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485970+00:00",
+      "updated_at": "2026-05-29T06:41:27.485972+00:00"
+    },
+    {
+      "id": "90b642cd-4f78-4dbe-b397-1a95771c2141",
+      "source": "筛分类型",
+      "en": "",
+      "es": "Tipo de cribado",
+      "definition": "Método de separación por tamaño, que puede ser en seco o en húmedo.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485977+00:00",
+      "updated_at": "2026-05-29T06:41:27.485978+00:00"
+    },
+    {
+      "id": "8545b69f-9226-45bf-bb38-d232a52a181c",
+      "source": "干式筛分",
+      "en": "",
+      "es": "Cribado en seco",
+      "definition": "Proceso de separación por tamaño sin uso de agua.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485982+00:00",
+      "updated_at": "2026-05-29T06:41:27.485983+00:00"
+    },
+    {
+      "id": "ea086215-7702-4379-a331-91b71acb66c8",
+      "source": "湿式筛分",
+      "en": "",
+      "es": "Cribado en húmedo",
+      "definition": "Proceso de separación por tamaño con adición de agua para mejorar la eficiencia.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485988+00:00",
+      "updated_at": "2026-05-29T06:41:27.485989+00:00"
+    },
+    {
+      "id": "ea686cb2-e214-4c36-b3d5-7e1f2c94603b",
+      "source": "频率",
+      "en": "",
+      "es": "Frecuencia",
+      "definition": "Número de ciclos por segundo en equipos eléctricos, medido en hercios (Hz).",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485994+00:00",
+      "updated_at": "2026-05-29T06:41:27.485995+00:00"
+    },
+    {
+      "id": "a1185967-b28e-4890-b96a-e4b388602ee6",
+      "source": "筛网类型",
+      "en": "",
+      "es": "Tipo de malla",
+      "definition": "Características de la superficie de cribado, como abertura y material.",
+      "category": "设备/机械",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.485999+00:00",
+      "updated_at": "2026-05-29T06:41:27.486001+00:00"
+    },
+    {
+      "id": "680c1ab6-a74a-4f94-9703-46c36df85f5f",
+      "source": "每天工作时数",
+      "en": "",
+      "es": "Horas de trabajo por día",
+      "definition": "Cantidad de horas diarias de operación del equipo.",
+      "category": "其他",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486005+00:00",
+      "updated_at": "2026-05-29T06:41:27.486006+00:00"
+    },
+    {
+      "id": "34d24bb5-0271-4e7f-bfa8-8606c944506b",
+      "source": "每年工作天数",
+      "en": "",
+      "es": "Días de trabajo por año",
+      "definition": "Número de días al año en que se opera el equipo.",
+      "category": "其他",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486010+00:00",
+      "updated_at": "2026-05-29T06:41:27.486011+00:00"
+    },
+    {
+      "id": "e094fd1a-3851-44f2-8b44-2ce844218897",
+      "source": "预筛分",
+      "en": "",
+      "es": "Preselección",
+      "definition": "Proceso de cribado inicial para separar material fino antes de la trituración principal.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486017+00:00",
+      "updated_at": "2026-05-29T06:41:27.486018+00:00"
+    },
+    {
+      "id": "b7e73b56-d883-4bc4-b572-9aee7822f925",
+      "source": "预筛分尺寸",
+      "en": "",
+      "es": "Tamaño de preselección",
+      "definition": "Tamaño de malla utilizado en la etapa de preselección.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486022+00:00",
+      "updated_at": "2026-05-29T06:41:27.486023+00:00"
+    },
+    {
+      "id": "b370e3e3-7580-4a85-bd6b-6dfb9f96f2f2",
+      "source": "期望产量",
+      "en": "",
+      "es": "Producción esperada",
+      "definition": "Cantidad de material que se desea procesar por unidad de tiempo.",
+      "category": "其他",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486028+00:00",
+      "updated_at": "2026-05-29T06:41:27.486029+00:00"
+    },
+    {
+      "id": "5d2f77b4-3b03-4406-9bdf-075249940512",
+      "source": "产品分级",
+      "en": "",
+      "es": "Clasificación del producto",
+      "definition": "Distribución por tamaños del producto final obtenido.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486033+00:00",
+      "updated_at": "2026-05-29T06:41:27.486034+00:00"
+    },
+    {
+      "id": "4ea46320-6d04-4343-95f4-c8588407831d",
+      "source": "尺寸",
+      "en": "",
+      "es": "Tamaño",
+      "definition": "Dimensión de las partículas del producto, expresada en milímetros.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486038+00:00",
+      "updated_at": "2026-05-29T06:41:27.486039+00:00"
+    },
+    {
+      "id": "a77511f8-578c-4b37-a420-d0060d860eb0",
+      "source": "比例",
+      "en": "",
+      "es": "Proporción",
+      "definition": "Porcentaje en peso de cada fracción de tamaño en el producto.",
+      "category": "选矿",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486045+00:00",
+      "updated_at": "2026-05-29T06:41:27.486046+00:00"
+    },
+    {
+      "id": "892799aa-4230-44eb-ade9-bf78b2f57881",
+      "source": "参考价格",
+      "en": "",
+      "es": "Precio de referencia",
+      "definition": "Valor estimado por tonelada del producto en el mercado.",
+      "category": "合同/法律",
+      "contexts": [],
+      "source_documents": [
+        "售前-（空版）信息调查表2026.4.13(中英文）V2[副本]-26b9dea5.xlsx"
+      ],
+      "occurrence_count": 1,
+      "confidence": "auto",
+      "created_at": "2026-05-29T06:41:27.486050+00:00",
+      "updated_at": "2026-05-29T06:41:27.486051+00:00"
+    }
+  ]
+}

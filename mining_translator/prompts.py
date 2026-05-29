@@ -2,26 +2,15 @@
 
 import json
 
-TRANSLATION_SYSTEM = {
-    "en": """You are a professional mining industry translator, expert in Chinese-to-English translation.
-You must strictly follow the provided glossary to ensure terminology consistency.
-After translating, you must extract ALL mining-specific terminology found in the source text.""",
 
-    "es": """You are a professional mining industry translator, expert in Chinese-to-Spanish translation.
-You must strictly follow the provided glossary to ensure terminology consistency.
-After translating, you must extract ALL mining-specific terminology found in the source text.""",
+TRANSLATION_SYSTEM = {
+    "en": "You are a professional mining industry translator, expert in Chinese-to-English translation. Use the provided glossary for consistent terminology.",
+    "es": "You are a professional mining industry translator, expert in Chinese-to-Spanish translation. Use the provided glossary for consistent terminology.",
 }
 
 
-def build_translation_prompt(
-    source_text: str,
-    target_lang: str,
-    glossary_terms: list[dict],
-) -> tuple[str, str]:
-    """Build system and user prompts for translation + term extraction.
-
-    Returns (system_prompt, user_prompt).
-    """
+def build_translation_prompt(source_text: str, target_lang: str,
+                             glossary_terms: list[dict]) -> tuple[str, str]:
     lang_name = {"en": "English", "es": "Spanish"}[target_lang]
 
     system = TRANSLATION_SYSTEM[target_lang]
@@ -31,16 +20,16 @@ def build_translation_prompt(
         items = [{"source": t["source"], "target": t["target"]} for t in glossary_terms]
         glossary_str = json.dumps(items, ensure_ascii=False, indent=2)
 
-    user = f"""【Known Glossary - use these standard translations when the source term appears】
-{glossary_str or "(empty - no existing glossary entries for this text)"}
+    user = f"""【Known Glossary - use these standard translations】
+{glossary_str or "(empty)"}
 
 【Text to translate】
 {source_text}
 
 【Output format】
-Step 1: Output the complete translation (pure translated text, no explanations).
-Step 2: Output "---TERMS---" as a separator line.
-Step 3: Output a JSON array of ALL mining terminology found in the source text:
+Step 1: Output the complete translation (pure translated text).
+Step 2: Output "---TERMS---" as a separator.
+Step 3: Output a JSON array of ALL mining terminology found:
 [
   {{
     "source": "中文术语",
@@ -50,11 +39,7 @@ Step 3: Output a JSON array of ALL mining terminology found in the source text:
     "confidence": "auto"
   }}
 ]
-
-Important:
-- If a term appears in the glossary above, use THAT exact translation in the target field.
-- Include BOTH new terms AND terms already in the glossary.
-- Do not miss any specialized mining term.
-- The translation must sound natural in {lang_name}."""
+- If a term is in the glossary, use THAT exact translation.
+- Do not miss any specialized mining term."""
 
     return system, user
