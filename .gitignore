@@ -1,3 +1,6 @@
+# Secrets
+.env
+
 # Translation output
 output/*.xlsx
 output/*.docx
