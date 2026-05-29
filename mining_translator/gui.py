@@ -54,7 +54,10 @@ def _build_translate_tab():
     status = gr.Markdown("")
 
     with gr.Row():
-        preview_out = gr.Textbox(label="Translation preview", lines=12, interactive=False)
+        preview_out = gr.Textbox(label="Translation preview", lines=8, interactive=False)
+
+    gr.Markdown("---\n### Download translated file")
+    download_out = gr.File(label="Click to download translated file", interactive=False)
 
     with gr.Row():
         terms_out = gr.Dataframe(
@@ -63,7 +66,6 @@ def _build_translate_tab():
             interactive=False,
             wrap=True,
         )
-        download_out = gr.File(label="Download translated file", visible=False)
 
     translate_btn.click(
         fn=_handle_translate,
