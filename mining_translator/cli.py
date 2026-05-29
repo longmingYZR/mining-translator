@@ -262,6 +262,12 @@ def _add_glossary_parser(subparsers):
     p_stats.set_defaults(func=cmd_glossary_stats)
 
 
+def cmd_gui(args):
+    """Launch the Gradio web UI."""
+    from .gui import main as gui_main
+    gui_main()
+
+
 def main():
     _setup_logging()
 
@@ -278,6 +284,9 @@ def main():
     subparsers = parser.add_subparsers(dest="command")
     _add_translate_parser(subparsers)
     _add_glossary_parser(subparsers)
+
+    p_gui = subparsers.add_parser("gui", help="Launch the web-based GUI")
+    p_gui.set_defaults(func=cmd_gui)
 
     args = parser.parse_args()
 
