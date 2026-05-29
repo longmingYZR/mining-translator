@@ -1,0 +1,15 @@
+# Translation output
+output/*.xlsx
+output/*.docx
+output/*.pptx
+output/*.txt
+output/*.pdf
+!output/.gitkeep
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
